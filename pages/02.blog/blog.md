@@ -1,46 +1,41 @@
 ---
-# http://learn.getgrav.org/content/headers
 title: Blog
-slug: blog
-# menu: Blog
-date: 23-01-2013
 published: true
-publish_date: 23-01-2013
-# unpublish_date: 23-01-2013
-# template: false
-# theme: false
+date: '23-01-2013 00:00'
+publish_date: '23-01-2013 00:00'
+metadata:
+    author: guyadmin
+slug: blog
 visible: true
+recaptchacontact:
+    enabled: false
+content:
+    items:
+        - '@self.children'
+    limit: 10
+    order:
+        by: date
+        dir: desc
+    pagination: true
+    url_taxonomy_filters: true
+twittercardoptions: summary
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
 summary:
     enabled: true
     format: short
     size: 128
-taxonomy:
-    migration-status: review
-    category: []
-    tag: []
-# added collection selector
-content:
-    items: @self.children
-    order:
-        by: date
-        dir: desc
-    limit: 5
-    pagination: true   
-
-
 author:
     name: guyadmin
-metadata:
-    author: guyadmin
-#      description: Your page description goes here
-#      keywords: HTML, CSS, XML, JavaScript
-#      robots: noindex, nofollow
-#      og:
-#          title: The Rock
-#          type: video.movie
-#          url: http://www.imdb.com/title/tt0117500/
-#          image: http://ia.media-imdb.com/images/rock.jpg
-#  cache_enable: false
-#  last_modified: true
 ---
 
