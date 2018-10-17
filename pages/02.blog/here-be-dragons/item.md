@@ -38,22 +38,26 @@ metadata:
 
 ## Manifesto For A New Adventure
 
-> “Those who do not move, do not notice their chains.”  
+> “Those who do not move, do not notice their chains.”
 >  ― Rosa Luxemburg
-> 
-> “Don’t get caught up in the spectacle of opposition. Oppose the spectacle.”  
+>
+> “Don’t get caught up in the spectacle of opposition. Oppose the spectacle.”
 >  “Those who lack imagination cannot imagine what is lacking.” – Situationist graffiti
-> 
+>
 > “When an inner situation is not made conscious, it appears outside as fate”. – C. G. Jung
-> 
-> “Why should you study and practice Magick? Because you can’t help doing it, and you had better do it well than badly.””  
+>
+> “Why should you study and practice Magick? Because you can’t help doing it, and you had better do it well than badly.””
 >  — Aleister Crowley, Magick Without Tears
-> 
+>
 > “I believe that magic is art and that art, whether it be writing, music, sculpture, or any other form is literally magic. Art is, like magic, the science of manipulating symbols, words, or images, to achieve changes in consciousness.” – Alan Moore
 
 ## The Adventure of Modernity
 
-We are entering an era of exponential change, as noted by many, and as such it is impossible to predict what the outcome will be. The consumerist entrancement whose spell has claimed the lives and souls of the majority of humanity will be broken, simply because no-one can remain asleep forever. The only question is to how the awakening will occur, whether it is suddenly, as suggested by the spiritual teacher Barry Long; that the nuclear bombs will eventually be detonated and shock humanity out of its slumber[1](#f1). Or it might be gradual – as an addict wakes up on the bathroom floor covered in vomit once again – we might find ourselves in a desert which was once a forest and realise that there is now nowhere we can go to find clean drinking water. Or we can look at the situation and choose to wake up consciously now, to maybe spare ourselves the worst horrors that our Fate has in store for us.
+We are entering an era of exponential change, as noted by many, and as such it is impossible to predict what the outcome will be. The consumerist entrancement whose spell has claimed the lives and souls of the majority of humanity will be broken, simply because no-one can remain asleep forever. The only question is to how the awakening will occur, whether it is suddenly, as suggested by the spiritual teacher Barry Long; that the nuclear bombs will eventually be detonated and shock humanity out of its slumber[1](#f1).
+
+===
+
+Or it might be gradual – as an addict wakes up on the bathroom floor covered in vomit once again – we might find ourselves in a desert which was once a forest and realise that there is now nowhere we can go to find clean drinking water. Or we can look at the situation and choose to wake up consciously now, to maybe spare ourselves the worst horrors that our Fate has in store for us.
 
 This is what is known as the Path of Wisdom versus the Path of Woe. The latter is what happens when you don’t face up to the consequences of your actions and just let things drift. We have all experienced this multiple times in our personal lives – for example the credit card bill doesn’t get paid, we get hit with massive interest charges, and this marks the last moment we had any real control over our finances. The Path of Wisdom is what happens when we can see what is coming down the road and start taking steps to avoid it, or at least to avoid its worst effects – avoiding some kind of global catastrophe is probably beyond us at this stage, given the converging crises we are currently facing.
 
@@ -75,7 +79,7 @@ You can separate yourself from the ‘rat race’ and reject consumerism, boycot
 
 ## Where Is *Our* Adventure?
 
-So we are powerless, so what? What did you expect? Humanity’s history is written in blood, that’s just the way it is. We distract ourselves with entertainment, something to fill the gap between being born and finally succumbing to the inevitable, just as the last of our children’s inheritance disappears into the coffers of the for-profit nursing home. We revel in grand stories of adventure, of games of thrones and lords of rings, of star wars and empires… but where is *our* adventure?  
+So we are powerless, so what? What did you expect? Humanity’s history is written in blood, that’s just the way it is. We distract ourselves with entertainment, something to fill the gap between being born and finally succumbing to the inevitable, just as the last of our children’s inheritance disappears into the coffers of the for-profit nursing home. We revel in grand stories of adventure, of games of thrones and lords of rings, of star wars and empires… but where is *our* adventure?
  Where is our grand moment where we vanquish the dragon and overcome adversity to come up victorious? That all belongs to another era, right? The age of chivalry is dead, long dead. No adventure awaits us in the ‘developed’ world, surely. That has gone the way of smallpox and the power of labour unions, never to return. Surely we sacrificed our chance of adventure when we opted for convenience and material comfort?
 
 Well, yes and no. It turns out that our very abdication of responsibility has itself created a monster – ‘the future that nobody wants’ as per Otto Scharmer and his very insightful ‘[Theory U](https://www.presencing.com/theoryu)‘. So what do we actually do, and more to the point, when do we find the time to do it, given that we are all working all the hours of each day just to survive? Or to put it another way, when we are working as much as we are physically able in order to keep the capitalist charade going? Yes, we are dependent on the system and it seems we will die without it, but we really will die, and not just as a loser in a made up game, but as an entire race, if we destroy our true mother, the planet itself. Our day-to-day survival strategies are, little by little, creating a monster which is devouring us. We are dependent on that which is killing us.
@@ -122,7 +126,7 @@ Is this prescription, this Manifesto, too vague? Too general, too head-in-the-cl
 
 - - - - - -
 
-**1** “The birth or release of the new culture from the human unconscious, where the idea of it is retained, will require the destruction of most of the human race by nuclear war, holocaust or some tremendous natural cataclysm. This could happen any day now.” From ‘*The Origins of Man and the Universe*‘ (pp 62-63)  
+**1** “The birth or release of the new culture from the human unconscious, where the idea of it is retained, will require the destruction of most of the human race by nuclear war, holocaust or some tremendous natural cataclysm. This could happen any day now.” From ‘*The Origins of Man and the Universe*‘ (pp 62-63)
 [↩](#a1)
 
 **2** [www.lesgavatxes.es](http://www.lesgavatxes.es) [↩](#a2)
