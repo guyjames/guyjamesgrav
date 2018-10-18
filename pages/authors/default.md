@@ -10,10 +10,5 @@ orga:
 orgaratingenabled: false
 eventenabled: false
 personenabled: false
-restaurantenabled: false
-restaurant:
-    acceptsReservations: 'yes'
-    priceRange: $
 ---
 
-{% include 'partials/aboutme.html.twig' %}
