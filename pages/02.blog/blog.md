@@ -5,6 +5,8 @@ date: '23-01-2013 00:00'
 publish_date: '23-01-2013 00:00'
 metadata:
     author: guyadmin
+external_links:
+    process: true
 slug: blog
 visible: true
 recaptchacontact:
