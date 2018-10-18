@@ -19,4 +19,3 @@ restaurant:
     priceRange: $
 ---
 
-{% include 'partials/aboutme.html.twig' %}
