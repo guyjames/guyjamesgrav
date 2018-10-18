@@ -2,7 +2,7 @@
 published: false
 process:
     markdown: true
-    twig: true
+    twig: false
 recaptchacontact:
     enabled: false
 twittercardoptions: summary
