@@ -36,7 +36,7 @@ metadata:
 #  last_modified: true
 ---
 
-## From my secret hideout north of Barcelona I create sonic and visual content to charm your senses. Stratospheric Analogue Juice: a direct injection of energy into your heart.[![Guy James at a keyboard](http://guyjames.com/wp-content/uploads/2010/07/20121211_203638-233x300.jpg)](http://guyjames.com/wp-content/uploads/2010/07/20121211_203638.jpg)
+## From my secret hideout north of Barcelona I create sonic and visual content to charm your senses. Stratospheric Analogue Juice: a direct injection of energy into your heart.[![Guy James at a keyboard](https://2018.guyjames.com/wp-content/uploads/2010/07/20121211_203638-233x300.jpg)](https://2018.guyjames.com/wp-content/uploads/2010/07/20121211_203638.jpg)
 
 A big YES to the good dreams, the juiciness, the lovers, the infinity, the luxury, the magick, the why-not squad, the opportunists, the genii, the includers, the friends, the laughing, the Impossible.
 
