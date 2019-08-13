@@ -34,7 +34,7 @@ metadata:
 
 ---
 
-[![Here Be Dragons!](http://guyjames.com/wp-content/uploads/2016/10/here_be_dragons-1024x614.jpg)](http://guyjames.com/wp-content/uploads/2016/10/here_be_dragons.jpg)
+[![Here Be Dragons!](https://2018.guyjames.com/wp-content/uploads/2016/10/here_be_dragons-1024x614.jpg)](https://2018.guyjames.com/wp-content/uploads/2016/10/here_be_dragons.jpg)
 
 ## Manifesto For A New Adventure
 

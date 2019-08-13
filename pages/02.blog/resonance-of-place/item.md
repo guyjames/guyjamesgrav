@@ -43,7 +43,7 @@ metadata:
 >  -Joseph Campbell quoted in *The Hero’s Journey: Joseph Campbell on his life and work* by Joseph Campbell, Phil Cousineau, Stuart L. Brown.
 
 [![The Boiling Heavens](http://farm5.static.flickr.com/4095/4756877092_507b927861_m.jpg)](http://www.flickr.com/photos/95572727@N00/4756877092/ "The Boiling Heavens")  
-[![Creative Commons License](http://guyjames.com/wp-content/plugins/photo-dropper/images/cc.png)](http://creativecommons.org/licenses/by-nc-sa/2.0/ "Attribution-NonCommercial-ShareAlike License") [photo](http://www.photodropper.com/photos/) credit: [Stuck in Customs](http://www.flickr.com/photos/95572727@N00/4756877092/ "Stuck in Customs")
+[![Creative Commons License](https://2018.guyjames.com/wp-content/plugins/photo-dropper/images/cc.png)](http://creativecommons.org/licenses/by-nc-sa/2.0/ "Attribution-NonCommercial-ShareAlike License") [photo](http://www.photodropper.com/photos/) credit: [Stuck in Customs](http://www.flickr.com/photos/95572727@N00/4756877092/ "Stuck in Customs")
 
 I feel this is something we have really lost touch with; the perception of our day-to-day life as sacred and the very mundane world we live in as holy. William Blake saw contemporary London as the New Jerusalem and was ridiculed as eccentric or even insane. It would seem laughable to describe Peckham or Doncaster as holy places but it is our decision to treat anywhere as a place where the Spirit does not live.
 

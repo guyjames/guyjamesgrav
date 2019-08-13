@@ -40,4 +40,4 @@ Charlotte Joko Beck *(quoted in Essential Zen, edited by Kazuaki Tanahashi and T
 *
 
 [![Meditation Begins at Birth](http://farm1.static.flickr.com/12/17647469_54187f8578_m.jpg)](http://www.flickr.com/photos/54304913@N00/17647469/ "Meditation Begins at Birth")  
-[![Creative Commons License](http://guyjames.com/wp-content/plugins/photo-dropper/images/cc.png)](http://creativecommons.org/licenses/by-nc/2.0/ "Attribution-NonCommercial License") [photo](http://www.photodropper.com/photos/) credit: [premasagar](http://www.flickr.com/photos/54304913@N00/17647469/ "premasagar")
+[![Creative Commons License](https://2018.guyjames.com/wp-content/plugins/photo-dropper/images/cc.png)](http://creativecommons.org/licenses/by-nc/2.0/ "Attribution-NonCommercial License") [photo](http://www.photodropper.com/photos/) credit: [premasagar](http://www.flickr.com/photos/54304913@N00/17647469/ "premasagar")

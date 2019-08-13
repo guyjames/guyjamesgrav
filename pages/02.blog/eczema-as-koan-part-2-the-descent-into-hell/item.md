@@ -34,13 +34,13 @@ metadata:
 
 ---
 
-*This is part two of my account of how I came to experience full healing from a very severe experience of eczema lasting several years. [Part one is here](http://guyjames.com/eczema-as-koan-part-1/ "Eczema as Koan Part 1") and [part three is here](http://guyjames.com/eczema-as-koan-part-3-the-way-out/ "Eczema As Koan Part 3: The Way Out").*
+*This is part two of my account of how I came to experience full healing from a very severe experience of eczema lasting several years. [Part one is here](https://2018.guyjames.com/eczema-as-koan-part-1/ "Eczema as Koan Part 1") and [part three is here](https://2018.guyjames.com/eczema-as-koan-part-3-the-way-out/ "Eczema As Koan Part 3: The Way Out").*
 
 - - - - - -
 
  
 
-[![Escalator to Hell](http://guyjames.com/wp-content/uploads/2014/08/escalator_to_hell-300x200.jpg)](http://guyjames.com/wp-content/uploads/2014/08/escalator_to_hell.jpg)Having ‘turned the corner’ as it were, (in terms of hope for the future if not in an actual improvement in my health),  although I didn’t know for sure then if it was a genuine ‘touching rock bottom’, or merely one more step on the way down, I began to search for something which might genuinely make a difference to my health. I had the deep suspicion that the cause of the eczema was not merely physical, and that as I had already completely changed my diet, was taking much more exercise than before (including playing squash, swimming (although not in the sea – way too painful!) and doing Chi Gong) and was still suffering a great deal, I felt that there must be a way of liberating the subconscious energy which I felt must be at the root of the skin condition.
+[![Escalator to Hell](https://2018.guyjames.com/wp-content/uploads/2014/08/escalator_to_hell-300x200.jpg)](https://2018.guyjames.com/wp-content/uploads/2014/08/escalator_to_hell.jpg)Having ‘turned the corner’ as it were, (in terms of hope for the future if not in an actual improvement in my health),  although I didn’t know for sure then if it was a genuine ‘touching rock bottom’, or merely one more step on the way down, I began to search for something which might genuinely make a difference to my health. I had the deep suspicion that the cause of the eczema was not merely physical, and that as I had already completely changed my diet, was taking much more exercise than before (including playing squash, swimming (although not in the sea – way too painful!) and doing Chi Gong) and was still suffering a great deal, I felt that there must be a way of liberating the subconscious energy which I felt must be at the root of the skin condition.
 
 I was doing a lot of research online at the time, and buying a lot of books in the hope that somewhere I would find the key information that would make all the difference. I had always been interested in the work of [Stanislav Grof](http://www.stanislavgrof.com/ "Transpersonal Psychologist Stanislav Grof"), the Czech psychologist who has laid out in various books the results of his research into altered states of consciousness and near death experiences. A book I particularly had found useful was one he had co-written with his wife Christina, ‘The Stormy Search For The Self’, and I remembered that in this there had been a description of a therapy they had devised together called [Holotropic Breathwork](http://www.holotropic.com/about.shtml "What Is Holotropic Breathwork?"). So I searched online to see if there was anywhere near me that facilitated this kind of therapy – expecting, I have to be honest, that there wouldn’t be.
 
@@ -48,7 +48,7 @@ What I didn’t realise is that one of the main centres for the training of Holo
 
 I am not going to go into the full story of what HB is, (other than to say it involves rapid breathing until one enters a kind of trance), or what happened at this workshop, but suffice it to say, it was extremely intense, and the latter part of it involved reliving my own birth, both from my own perspective as a tiny baby, but also from my mother’s perspective (even more strange, although it felt perfectly natural at the time).
 
-[![Christina and Stanislav Grof](http://guyjames.com/wp-content/uploads/2014/08/Christina_and_Stanislav_Grof2-300x264.jpg)](http://guyjames.com/wp-content/uploads/2014/08/Christina_and_Stanislav_Grof2.jpg)Christina and Stanislav Grof, creators of Holotropic Breathwork
+[![Christina and Stanislav Grof](https://2018.guyjames.com/wp-content/uploads/2014/08/Christina_and_Stanislav_Grof2-300x264.jpg)](https://2018.guyjames.com/wp-content/uploads/2014/08/Christina_and_Stanislav_Grof2.jpg)Christina and Stanislav Grof, creators of Holotropic Breathwork
 
 
 
@@ -99,7 +99,7 @@ I assume that some people are more predisposed to hanging on to emotions in the 
 
 In my case I had just gone through a traumatic breakup with someone I had assumed to be ‘the love of my life’, so having problems in the stomach area was probably to be expected.
 
-[![Stan Grof's Drawing of a Phoenix](http://guyjames.com/wp-content/uploads/2014/08/stan_grof_phoenix-298x300.jpg)](http://guyjames.com/wp-content/uploads/2014/08/stan_grof_phoenix.jpg)Stan Grof’s Drawing of a Phoenix
+[![Stan Grof's Drawing of a Phoenix](https://2018.guyjames.com/wp-content/uploads/2014/08/stan_grof_phoenix-298x300.jpg)](https://2018.guyjames.com/wp-content/uploads/2014/08/stan_grof_phoenix.jpg)Stan Grof’s Drawing of a Phoenix
 
 
 

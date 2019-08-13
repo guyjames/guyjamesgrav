@@ -34,11 +34,11 @@ metadata:
 
 ---
 
-*This is part three of my account of how I came to experience full healing from a very severe experience of eczema lasting several years. [Part one is here](http://guyjames.com/eczema-as-koan-part-1/ "Eczema as Koan Part 1") and [part two is here](http://guyjames.com/eczema-as-koan-part-2-the-descent-into-hell/ "Eczema as Koan Part 2: The Descent Into Hell").*
+*This is part three of my account of how I came to experience full healing from a very severe experience of eczema lasting several years. [Part one is here](https://2018.guyjames.com/eczema-as-koan-part-1/ "Eczema as Koan Part 1") and [part two is here](https://2018.guyjames.com/eczema-as-koan-part-2-the-descent-into-hell/ "Eczema as Koan Part 2: The Descent Into Hell").*
 
 - - - - - -
 
-[![Alchemy XXVII - Alchemy _DDC2232.JPG](http://guyjames.com/wp-content/uploads/2014/08/alchemy_xxvii__alchemy_ddc2232jpg-300x156.jpg)](http://guyjames.com/wp-content/uploads/2014/08/alchemy_xxvii__alchemy_ddc2232jpg.jpg)I have covered my journey of healing and discovery up until this point, which took the form of a voyage into the depths of Hell and out again.
+[![Alchemy XXVII - Alchemy _DDC2232.JPG](https://2018.guyjames.com/wp-content/uploads/2014/08/alchemy_xxvii__alchemy_ddc2232jpg-300x156.jpg)](https://2018.guyjames.com/wp-content/uploads/2014/08/alchemy_xxvii__alchemy_ddc2232jpg.jpg)I have covered my journey of healing and discovery up until this point, which took the form of a voyage into the depths of Hell and out again.
 
 Looking back now, I can see that – after all the very difficult experiences of reliving my own birth, and releasing so much anger and resentment (I have barely scratched the surface here), plus experiencing mythic situations both hellish and heavenly – the real breakthrough came during the sixth session of Holotropic Breathwork I experienced in Barcelona.
 
@@ -52,7 +52,7 @@ Here is an excerpt from the account I wrote of the session afterwards:
 > 
 > “I had the realisation that our soul (and there is only one soul, or rather ‘not two’) is so beautiful that if our bodies were as luminous and perfect as it is, we would be unbearably conceited and arrogant. The imperfect physical world offers a completely necessary balance to the utter perfection of our inner being. The problem is that most people only know the imperfection and are unaware of the perfection, thus life appears ugly and meaningless. This time however I was just so happy that although I felt boundless compassion for everything, I did not feel in the least sad. The imperfection and pain in the world was seen as a perfect and necessary part of our ‘journey’ which is only really a deepening of the present moment and a merging into who we really are.”
 
-This experience really changed everything for me and I could see that the whole experience of getting ill had all been for a reason, and in fact was a great gift. It had shown me the limits of our human arrogance, the belief that we ‘know it all’ – we are so clever and complicated but in reality [that is just hubris and pride](http://guyjames.com/rock-bottom/ "Rock Bottom"); ultimately we know next to nothing but are not willing to admit it in case it damages our carefully-preserved self image.
+This experience really changed everything for me and I could see that the whole experience of getting ill had all been for a reason, and in fact was a great gift. It had shown me the limits of our human arrogance, the belief that we ‘know it all’ – we are so clever and complicated but in reality [that is just hubris and pride](https://2018.guyjames.com/rock-bottom/ "Rock Bottom"); ultimately we know next to nothing but are not willing to admit it in case it damages our carefully-preserved self image.
 
 The illness and its side effects had also shown me how the visionary or mythic dimension is so close to our everyday world, and in fact is like an operating system that we live in without even knowing it, making up as it does the building blocks of our assumptions about ‘reality’, most of which is just arbitrary and man-made, while we consider it to be immutable and constant.
 
@@ -70,7 +70,7 @@ I have noticed from various online support groups for eczema and related maladie
 
 What I want to ask though is: what if anger itself was part of the cause of the eczema? Of course it is definitely a by-product as well, and all sufferers know that getting stressed makes it worse, but what if that was in fact the root cause in some cases? So the question would then be: how come babies can have eczema; is there any way that a baby can be angry? The answer is no of course, not in the conventional sense as applied to adults, but if we look at what anger actually is it might give us a clue as to how this could happen (and please bear with me, I know I am going out on a limb here, but I think it’s worth pursuing this line of thinking).
 
-[![HR Giger Babies](http://guyjames.com/wp-content/uploads/2014/08/giger_baby-300x207.jpg)](http://guyjames.com/wp-content/uploads/2014/08/giger_baby.jpg)The work of HR Giger often contains allusions to birth trauma
+[![HR Giger Babies](https://2018.guyjames.com/wp-content/uploads/2014/08/giger_baby-300x207.jpg)](https://2018.guyjames.com/wp-content/uploads/2014/08/giger_baby.jpg)The work of HR Giger often contains allusions to birth trauma
 
 
 
@@ -94,7 +94,7 @@ So maybe about six months after cutting these things out of my diet I realised I
 
 I find myself having a background of gratitude and a feeling of oneness which persists even while I might be feeling annoyed, excited or whatever emotion is passing through. I am less quick to judge and more compassionate, especially for those suffering from eczema and similar issues. I really want to hug every one of them and tell them to keep going, to keep searching for the reason why this disease has come into their life. I have also become much more compassionate towards myself, recognising that the mistakes for which I had berated myself so viciously in the past were understandable, given what I knew at the time, and that they can be left in the past.
 
-[![Mandala drawn by me after a Holotropic Breathwork session in April 2014](http://guyjames.com/wp-content/uploads/2014/08/mandala_guy_4_2014-300x234.jpg)](http://guyjames.com/wp-content/uploads/2014/08/mandala_guy_4_2014.jpg)Mandala drawn by me after a Holotropic Breathwork session in April 2014
+[![Mandala drawn by me after a Holotropic Breathwork session in April 2014](https://2018.guyjames.com/wp-content/uploads/2014/08/mandala_guy_4_2014-300x234.jpg)](https://2018.guyjames.com/wp-content/uploads/2014/08/mandala_guy_4_2014.jpg)Mandala drawn by me after a Holotropic Breathwork session in April 2014
 
 
 

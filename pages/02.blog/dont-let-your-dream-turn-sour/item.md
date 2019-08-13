@@ -39,4 +39,4 @@ metadata:
 Stuart Wilde, in “*Affirmations*”
 
 [![Wait Times…!!!](http://farm3.static.flickr.com/2308/2201884734_9b2849318f_m.jpg)](http://www.flickr.com/photos/62202285@N00/2201884734/ "Wait Times…!!!")  
-[![Creative Commons License](http://guyjames.com/wp-content/plugins/photo-dropper/images/cc.png)](http://creativecommons.org/licenses/by-nc-nd/2.0/ "Attribution-NonCommercial-NoDerivs License") [photo](http://www.photodropper.com/photos/) credit: [denis collette](http://www.flickr.com/photos/62202285@N00/2201884734/ "denis collette")
+[![Creative Commons License](https://2018.guyjames.com/wp-content/plugins/photo-dropper/images/cc.png)](http://creativecommons.org/licenses/by-nc-nd/2.0/ "Attribution-NonCommercial-NoDerivs License") [photo](http://www.photodropper.com/photos/) credit: [denis collette](http://www.flickr.com/photos/62202285@N00/2201884734/ "denis collette")

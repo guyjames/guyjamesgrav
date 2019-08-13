@@ -41,7 +41,7 @@ metadata:
 I’ve always thought that Richard Dawkins and his followers have an evangelical air about them, confirmed by the ‘Atheist Ad Campaign’:
 
 [![Atheist bus stop advert mockup, final.](http://farm4.static.flickr.com/3217/2969104386_1e473252aa_m.jpg)](http://www.flickr.com/photos/54829881@N00/2969104386/ "Atheist bus stop advert mockup, final.")  
-[![Creative Commons License](http://guyjames.com/wp-content/plugins/photo-dropper/images/cc.png)](http://creativecommons.org/licenses/by-nc-nd/2.0/ "Attribution-NonCommercial-NoDerivs License") [photo](http://www.photodropper.com/photos/) credit: [cbit](http://www.flickr.com/photos/54829881@N00/2969104386/ "cbit")
+[![Creative Commons License](https://2018.guyjames.com/wp-content/plugins/photo-dropper/images/cc.png)](http://creativecommons.org/licenses/by-nc-nd/2.0/ "Attribution-NonCommercial-NoDerivs License") [photo](http://www.photodropper.com/photos/) credit: [cbit](http://www.flickr.com/photos/54829881@N00/2969104386/ "cbit")
 
 I mean if religion is a bad thing, then why drag yourself down to their level? Who cares what other people believe, surely it’s a personal thing? What happened to ‘live and let live’?
 

@@ -38,7 +38,7 @@ I was just thinking about the concept of ‘the One’ in relationships and how 
 
 So that’s nice for them for the time being. But what happens if ‘the One’ dies or leaves them? Or worse still the bathroom habits and general boringness of ‘the One’ start to pall and the relationship cools significantly? Is that person still ‘the One’ or have the got ‘the wrong One’?  
 [![Haley and Michael](http://farm3.static.flickr.com/2027/1794707997_29259a1d47_m.jpg)](http://www.flickr.com/photos/8222174@N05/1794707997/ "Haley and Michael")  
-[![Creative Commons License](http://guyjames.com/wp-content/plugins/photo-dropper/images/cc.png)](http://creativecommons.org/licenses/by-nc-nd/2.0/ "Attribution-NonCommercial-NoDerivs License") [photo](http://www.photodropper.com/photos/) credit: [www.LizzieVPhotography.com](http://www.flickr.com/photos/8222174@N05/1794707997/ "www.LizzieVPhotography.com")
+[![Creative Commons License](https://2018.guyjames.com/wp-content/plugins/photo-dropper/images/cc.png)](http://creativecommons.org/licenses/by-nc-nd/2.0/ "Attribution-NonCommercial-NoDerivs License") [photo](http://www.photodropper.com/photos/) credit: [www.LizzieVPhotography.com](http://www.flickr.com/photos/8222174@N05/1794707997/ "www.LizzieVPhotography.com")
 
 If it is the former, they can carry on believing that that person was indeed ‘the One’, and their love life is basically now over- as in this classic clip shows: [Human Remains: Perfect Partners](http://www.youtube.com/watch?v=7WBp4J_vN_k). Anyone who is not ‘the One’ is seen as necessarily a poor substitute.
 
