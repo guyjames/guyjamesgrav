@@ -34,7 +34,7 @@ metadata:
 
 ---
 
-![](https://2018.guyjames.com/wp-content/uploads/tumblr_l9n44e4Fxp1qzfoxxo1_500.jpg)
+![](http://guyjames.com/wp-content/uploads/tumblr_l9n44e4Fxp1qzfoxxo1_500.jpg)
 
 Who is the third who walks always beside you?  
  When I count, there are only you and I together  

@@ -39,4 +39,4 @@ metadata:
 William Blake, from ‘*The Marriage of Heaven and Hell*‘
 
 [![Tree of Life](http://farm4.static.flickr.com/3003/2664817195_b6052f1c36_m.jpg)](http://www.flickr.com/photos/16230215@N08/2664817195/ "Tree of Life")  
-[![Creative Commons License](https://2018.guyjames.com/wp-content/plugins/photo-dropper/images/cc.png)](http://creativecommons.org/licenses/by-nd/2.0/ "Attribution-NoDerivs License") [photo](http://www.photodropper.com/photos/) credit: [h.koppdelaney](http://www.flickr.com/photos/16230215@N08/2664817195/ "h.koppdelaney")
+[![Creative Commons License](http://guyjames.com/wp-content/plugins/photo-dropper/images/cc.png)](http://creativecommons.org/licenses/by-nd/2.0/ "Attribution-NoDerivs License") [photo](http://www.photodropper.com/photos/) credit: [h.koppdelaney](http://www.flickr.com/photos/16230215@N08/2664817195/ "h.koppdelaney")

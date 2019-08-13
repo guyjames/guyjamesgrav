@@ -40,4 +40,4 @@ Hexagram 27, *I Ching
 *
 
 [![Dawn](http://farm1.static.flickr.com/36/98044848_20810b2f7e.jpg)](http://www.flickr.com/photos/55384811@N00/98044848/ "Dawn")  
-[![Creative Commons License](https://2018.guyjames.com/wp-content/plugins/photo-dropper/images/cc.png)](http://creativecommons.org/licenses/by-nc/2.0/ "Attribution-NonCommercial License") [photo](http://www.photodropper.com/photos/) credit: [barytonneuse](http://www.flickr.com/photos/55384811@N00/98044848/ "barytonneuse")
+[![Creative Commons License](http://guyjames.com/wp-content/plugins/photo-dropper/images/cc.png)](http://creativecommons.org/licenses/by-nc/2.0/ "Attribution-NonCommercial License") [photo](http://www.photodropper.com/photos/) credit: [barytonneuse](http://www.flickr.com/photos/55384811@N00/98044848/ "barytonneuse")

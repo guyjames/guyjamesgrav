@@ -40,7 +40,7 @@ metadata:
 
 * *
 
-[![Are you there NSA? Taken from Boing Boing](https://2018.guyjames.com/wp-content/uploads/2013/08/10415575_10152263968121179_2103058359115300756_n-184x300.jpg)](https://2018.guyjames.com/wp-content/uploads/2013/08/10415575_10152263968121179_2103058359115300756_n.jpg)Taken from Boing Boing
+[![Are you there NSA? Taken from Boing Boing](http://guyjames.com/wp-content/uploads/2013/08/10415575_10152263968121179_2103058359115300756_n-184x300.jpg)](http://guyjames.com/wp-content/uploads/2013/08/10415575_10152263968121179_2103058359115300756_n.jpg)Taken from Boing Boing
 
 
 
@@ -54,7 +54,7 @@ The implications of this, if taken fully to heart, can be summed up in one word:
 
 So into the void of no-gods has stepped the modern technological secular state – in its unholy marriage with large corporations it is not (yet) omnipotent, but seems to regard itself as such to all intents and purposes, and it is certainly now taking king-sized steps towards omniscience – it is watching us all the time, as made overtly clear by the infamous, almost a parody of itself, GW Bush era logo of the **Information Awareness Office** project (presumably made secret and renamed PRISM after an unexpected public backlash into the idea of all communications being intercepted by the government):
 
-[![Information Awareness Office IAO](https://2018.guyjames.com/wp-content/uploads/2013/06/270px-IAO-logo.png)](https://2018.guyjames.com/wp-content/uploads/2013/06/270px-IAO-logo.png)
+[![Information Awareness Office IAO](http://guyjames.com/wp-content/uploads/2013/06/270px-IAO-logo.png)](http://guyjames.com/wp-content/uploads/2013/06/270px-IAO-logo.png)
 
 I don’t want to go too far down the occult conspiracy theory rabbithole but as a sidenote ‘IAO’ was the name for a Crowleyan magickal formula for contacting one’s Holy Guardian Angel – without the obviously occultist logo I would have just dismissed that as a coincidence, but with it, there is ample backup for believing that this worldwide surveillance project was consciously intended as a kind of god-replacement. The slogan, *Scientia est Potentia *(Knowledge is Power) seems to add further weight to this – when we have the knowledge of Everything, we will be All Powerful. The eye in the pyramid is, in Masonic mythology, of course supposed to be that of the Architect of the Universe, i.e. God. The traditional geometrical shape for a PRISM is triangular (pyramid).
 

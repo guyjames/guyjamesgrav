@@ -37,4 +37,4 @@ metadata:
 “Democratic capitalism” cannot exist……because capitalism beats democracy every time, like scissors beats paper or stone beats scissors.
 
 [![Scissors, Paper, Stone](http://farm1.static.flickr.com/121/370011231_3a25b72780_m.jpg)](http://www.flickr.com/photos/74196805@N00/370011231/ "Scissors, Paper, Stone")  
-[![Creative Commons License](https://2018.guyjames.com/wp-content/plugins/photo-dropper/images/cc.png)](http://creativecommons.org/licenses/by-nc-sa/2.0/ "Attribution-NonCommercial-ShareAlike License") [photo](http://www.photodropper.com/photos/) credit: [Brainless Angel](http://www.flickr.com/photos/74196805@N00/370011231/ "Brainless Angel")
+[![Creative Commons License](http://guyjames.com/wp-content/plugins/photo-dropper/images/cc.png)](http://creativecommons.org/licenses/by-nc-sa/2.0/ "Attribution-NonCommercial-ShareAlike License") [photo](http://www.photodropper.com/photos/) credit: [Brainless Angel](http://www.flickr.com/photos/74196805@N00/370011231/ "Brainless Angel")

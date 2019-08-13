@@ -34,7 +34,7 @@ metadata:
 
 ---
 
-I thought I would add a brief update related to my [previous posts](https://2018.guyjames.com/eczema-as-koan-part-1/) about becoming healed from severe eczema. These passages are adapted from replies to people on the Eczema/Topical Steroid Withdrawal group on Facebook. Given the ephemeral nature of Facebook I wanted to save them somewhere in case they might be useful to anyone in the future.
+I thought I would add a brief update related to my [previous posts](http://guyjames.com/eczema-as-koan-part-1/) about becoming healed from severe eczema. These passages are adapted from replies to people on the Eczema/Topical Steroid Withdrawal group on Facebook. Given the ephemeral nature of Facebook I wanted to save them somewhere in case they might be useful to anyone in the future.
 
 - - - - - -
 

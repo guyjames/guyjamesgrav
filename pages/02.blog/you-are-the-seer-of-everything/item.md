@@ -39,4 +39,4 @@ New spacey track by me, Guy James, featuring the voice of the spiritual teacher,
  This is the first time I’ve used the ‘glissando guitar’ technique as pioneered by Syd Barrett and perfected by Daevid Allen and Steve Hillage in Gong.
 
 [!['yeah this is quite a good book, I suppose'](http://farm4.static.flickr.com/3111/2890013469_dab994e0e7_m.jpg)](http://www.flickr.com/photos/26235754@N05/2890013469/ "'yeah this is quite a good book, I suppose'")  
-[![Creative Commons License](https://2018.guyjames.com/wp-content/plugins/photo-dropper/images/cc.png)](http://creativecommons.org/licenses/by-nc-sa/2.0/ "Attribution-NonCommercial-ShareAlike License") [photo](http://www.photodropper.com/photos/) credit: [Loving Earth](http://www.flickr.com/photos/26235754@N05/2890013469/ "Loving Earth")
+[![Creative Commons License](http://guyjames.com/wp-content/plugins/photo-dropper/images/cc.png)](http://creativecommons.org/licenses/by-nc-sa/2.0/ "Attribution-NonCommercial-ShareAlike License") [photo](http://www.photodropper.com/photos/) credit: [Loving Earth](http://www.flickr.com/photos/26235754@N05/2890013469/ "Loving Earth")

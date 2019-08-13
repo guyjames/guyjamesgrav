@@ -41,4 +41,4 @@ Matsuo Basho
 (more here)
 
 [![Autunno - L'essenza.](http://farm1.static.flickr.com/122/294485761_9168f2ac66_m.jpg)](http://www.flickr.com/photos/77251992@N00/294485761/ "Autunno - L'essenza.")  
-[![Creative Commons License](https://2018.guyjames.com/wp-content/plugins/photo-dropper/images/cc.png)](http://creativecommons.org/licenses/by-nc-nd/2.0/ "Attribution-NonCommercial-NoDerivs License") [photo](http://www.photodropper.com/photos/) credit: [LunaDiRimmel](http://www.flickr.com/photos/77251992@N00/294485761/ "LunaDiRimmel")
+[![Creative Commons License](http://guyjames.com/wp-content/plugins/photo-dropper/images/cc.png)](http://creativecommons.org/licenses/by-nc-nd/2.0/ "Attribution-NonCommercial-NoDerivs License") [photo](http://www.photodropper.com/photos/) credit: [LunaDiRimmel](http://www.flickr.com/photos/77251992@N00/294485761/ "LunaDiRimmel")

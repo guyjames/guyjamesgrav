@@ -34,7 +34,7 @@ metadata:
 
 ---
 
-My [video about the possible Shamanic origins of Christmas](https://2018.guyjames.com/my-music/why-do-santas-reindeer-fly-a-video-by-guy-james/) has gone somewhat viral – 21,000 views in 6 days! So if you are one of those people who has come here to find out more about Guy James, thanks, and watch this space for more video goodies in the near future.
+My [video about the possible Shamanic origins of Christmas](http://guyjames.com/my-music/why-do-santas-reindeer-fly-a-video-by-guy-james/) has gone somewhat viral – 21,000 views in 6 days! So if you are one of those people who has come here to find out more about Guy James, thanks, and watch this space for more video goodies in the near future.
 
 You can also subscribe to [my YouTube channel](http://www.youtube.com/user/yug23) or [my Facebook page](http://facebook.com/GuyJamesMusic).
 
